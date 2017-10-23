@@ -10,4 +10,5 @@ Git allows you to track code by using log, which shows history, and can be modif
 with other words like oneline and graph.  There is also diff, which shows differences 
 between commits.
 3. Explain how git enables sharing code.
-
+Git allows users to share code and also work on different branches, and merge the code
+later to allow for seamless development.
